@@ -1,2 +1,2 @@
-# VersieBereheer
+# VersieBeheer
 Time to learn Git
